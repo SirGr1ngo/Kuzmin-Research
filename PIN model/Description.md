@@ -2,7 +2,7 @@
 Includes the working paper and models' description
 
 ## Main scripts:
-*PIN fun.R* file includes the function for estimation of the PIN model (Easley et al, 1996) with incorporated algorithms to enhance its efficiency, using the observed order flow
+*PIN fun.R* includes the function for estimation of the PIN model (Easley et al, 1996) with incorporated algorithms to enhance its efficiency, using the observed order flow
 
 *pin final.R* allows to change the frequency of the input data
 
